@@ -1,4 +1,11 @@
-Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = mer. 05 févr. 2014 16:58:10 CET
+Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = jeu. 13 févr. 2014 14:14:24 CET
+
+BeginCmp
+TimeStamp = /52FC9494;
+Reference = C1;
+ValeurCmp = 100nF;
+IdModule  = C2;
+EndCmp
 
 BeginCmp
 TimeStamp = /52F210B2;
@@ -127,17 +134,17 @@ IdModule  = pin_array_10x2;
 EndCmp
 
 BeginCmp
-TimeStamp = /52F21289;
+TimeStamp = /52FC9366;
 Reference = P3;
-ValeurCmp = CONN_9;
-IdModule  = PIN_ARRAY_9x1;
+ValeurCmp = CONN_10;
+IdModule  = SIL-10;
 EndCmp
 
 BeginCmp
-TimeStamp = /52F2127A;
+TimeStamp = /52FC9375;
 Reference = P4;
-ValeurCmp = CONN_9;
-IdModule  = PIN_ARRAY_9x1;
+ValeurCmp = CONN_10;
+IdModule  = SIL-10;
 EndCmp
 
 BeginCmp
